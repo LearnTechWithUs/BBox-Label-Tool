@@ -1,7 +1,7 @@
 BBox-Label-Tool
 ===============
 
-A simple tool for labeling object bounding boxes in images, implemented with Python Tkinter. This forked version is adapted for the Yolo Algorithm and creates XML files.
+A simple tool for labeling object bounding boxes in images, implemented with Python Tkinter. This forked version is adapted for the Yolo Algorithm and creates XML files and permitts multi-class classification.
 
 **Screenshot:**
 ![Label Tool](./screenshot.png)
