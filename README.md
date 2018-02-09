@@ -15,8 +15,7 @@ LabelTool
 |--Images/   *# direcotry containing the images to be labeled*  
 |  
 |--Labels/   *# direcotry for the labeling results*  
-|  
-|--Examples/  *# direcotry for the example bboxes*  
+
 
 Environment
 ----------
