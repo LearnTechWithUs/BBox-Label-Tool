@@ -12,9 +12,9 @@ LabelTool
 |  
 |--main.py   *# source code for the tool*  
 |  
-|--Images/   *# direcotry containing the images to be labeled*  
+|--Images/   *# direcotry containing the images to be labeled, all images must have ".jpg" extension, case sensitive!*  
 |  
-|--Labels/   *# direcotry for the labeling results*  
+|--Labels/   *# direcotry for the labeling results, will contain the ".xml" files*  
 
 
 Environment
